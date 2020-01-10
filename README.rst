@@ -13,8 +13,8 @@ http://creativecommons.org/licenses/by-sa/4.0/
 |
 
 My goal was to simplify assembly for use in Workshops at my local Makerspace
-https://confluent.space/. A custom PC board using a DFRobot DFRduino Pro Mini
-was created to make the electronics assembly easier as well.
+https://confluent.space/. A custom PC board using an Arduino Pro Mini or 
+compatible was created to make the electronics assembly easier as well.
 
 |
 
